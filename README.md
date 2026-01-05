@@ -50,9 +50,9 @@ Copy code
 g++ calculator.cpp -o calculator
 ```
 Run the program:
+- Copy code
 ```bash
 
-Copy code
 ./calculator   # Linux/Mac
 calculator.exe # Windows
 ```
