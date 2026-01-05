@@ -48,11 +48,15 @@ Copy code
 ### Compile the program:
 ```bash
 g++ calculator.cpp -o calculator
+```
 Run the program:
-bash
+```bash
+
 Copy code
 ./calculator   # Linux/Mac
 calculator.exe # Windows
+```
 Follow the prompts to perform calculations.
-License
+
+###License
 This project is open-source and free to use.
